@@ -28,7 +28,7 @@ $geb_namen=array(
  $geb_erbauer3	=> 'Panzerfabrik',
  $geb_erbauer4	=> 'Flugwerft',
  $geb_lager	=> 'Lager',
- $geb_ag		=> 'Administrationsgebaeude',
+ $geb_ag		=> 'Administration',
  $geb_mauer	=> 'Sperranlagen',
  $geb_turm		=> 'Wachturmanlagen'
 );
