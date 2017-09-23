@@ -19,7 +19,7 @@ $i++; $geb_af=$i;		// Administrationsgebaeude
 $i++; $geb_mauer=$i;		// Sperranlagen
 $i++; $geb_turm=$i;		// Wachturmanlagen
 
-$anzgeb=$i;		// so viele verschiedene Gebaeude gibt es
+$anzgebs=$i;		// so viele verschiedene Gebaeude gibt es
 $anzerbauer=4;		// so viele davon produzieren Einheiten
 $max_anzerbauer=4;	// wird noch erklaert
 
