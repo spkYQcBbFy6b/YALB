@@ -1,7 +1,7 @@
 <?php include_once('name-wird-nicht-verraten.php');
 if($sicherheitsvariable != 314159256) exit();
 
-$i=;
+$i=0;
 $i++; $geb_hq=$i;			// Hauptquartier
 $i++; $geb_mine1=$i;		// Stahlwerk
 $i++; $geb_mine2=$i;		// Kunststofffabrik
