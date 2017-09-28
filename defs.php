@@ -9,6 +9,7 @@ $i++; $geb_mine3=$i;		// Chemiefabrik
 $i++; $geb_lager=$i;		// Lager
 $i++; $geb_bunker=$i;		// Bunker
 $i++; $geb_markt=$i;		// Handelszentrum
+$i++; $geb_unterkunft=$i;		// Unterkunft
 $i++; $geb_erbauer1=$i;	// Kaserne
 $i++; $geb_erbauer2=$i;	// Fahrzeugfabrik
 $i++; $geb_erbauer3=$i;	// Panzerfabrik
@@ -31,6 +32,7 @@ $geb_namen=array(
  $geb_lager	=> 'Lager',
  $geb_bunker	=> 'Bunker',
  $geb_markt	=> 'Handelszentrum',
+ $geb_unterkunft	=> 'Unterkunft',
  $geb_erbauer1	=> 'Kaserne',
  $geb_erbauer2	=> 'Fahrzeugfabrik',
  $geb_erbauer3	=> 'Panzerfabrik',
@@ -51,6 +53,7 @@ $geb_picprae=array(
  $geb_lager	=> 'g14',
  $geb_bunker	=> 'n1',
  $geb_markt	=> 'n2',
+ $geb_unterkunft	=> 'n5',
  $geb_erbauer1	=> 'g6',
  $geb_erbauer2	=> 'g8',
  $geb_erbauer3	=> 'g9',
@@ -61,5 +64,4 @@ $geb_picprae=array(
  $geb_mauer	=> 'g26',
  $geb_turm		=> 'g27'
 );
-
 ?>
