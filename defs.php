@@ -44,24 +44,24 @@ $geb_namen=array(
  $geb_turm		=> 'Wachturmanlagen'
 );
 
-// Namen der Gebaeudebilder beginnen mit diesen Praefixen:
-$geb_picprae=array(
- $geb_hq		=> 'g1',
- $geb_mine1	=> 'g3',
- $geb_mine2	=> 'g4',
- $geb_mine3	=> 'g5',
- $geb_lager	=> 'g14',
- $geb_bunker	=> 'n1',
- $geb_markt	=> 'n2',
- $geb_unterkunft	=> 'n5',
- $geb_erbauer1	=> 'g6',
- $geb_erbauer2	=> 'g8',
- $geb_erbauer3	=> 'g9',
- $geb_erbauer4	=> 'g10',
- $geb_platz	=> 'n3',
- $geb_uni	=> 'n4',
- $geb_ag		=> 'g25',
- $geb_mauer	=> 'g26',
- $geb_turm		=> 'g27'
+// Namen der Gebaeudebilder, klein; inkl. Pfad ab Hauptverzeichnis:
+$geb_pics40=array(
+ $geb_hq		=> 'p/g3/40_1_hq.png',
+ $geb_mine1	=> 'p/g3/40_1_stahlwerk.png',
+ $geb_mine2	=> 'p/g3/40_1_kunststofffabrik.png',
+ $geb_mine3	=> 'p/g3/40_1_chemiefabrik.png',
+ $geb_lager	=> 'p/g3/40_1_lager.png',
+ $geb_bunker	=> 'p/g3/40_1_leer.png',
+ $geb_markt	=> 'p/g3/40_1_leer.png',
+ $geb_unterkunft	=> 'p/g3/40_1_leer.png',
+ $geb_erbauer1	=> 'p/g3/40_1_kaserne.png',
+ $geb_erbauer2	=> 'p/g3/40_1_fahrzeugfabrik.png',
+ $geb_erbauer3	=> 'p/g3/40_1_panzerfabrik.png',
+ $geb_erbauer4	=> 'p/g3/40_1_flugwerft.png',
+ $geb_platz	=> 'p/g3/40_1_leer.png',
+ $geb_uni	=> 'p/g3/40_1_leer.png',
+ $geb_ag		=> 'p/g3/40_1_administration.png',
+ $geb_mauer	=> 'p/g3/40_1_sperranlagen.png',
+ $geb_turm		=> 'p/g3/40_1_wachturmanlagen.png',
 );
 ?>
