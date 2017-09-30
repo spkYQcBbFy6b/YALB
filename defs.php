@@ -16,7 +16,7 @@ $i++; $geb_erbauer3=$i;	// Panzerfabrik
 $i++; $geb_erbauer4=$i;	// Flugwerft
 $i++; $geb_platz=$i;		// Exerzierplatz
 $i++; $geb_uni=$i;		// Universitaet
-$i++; $geb_af=$i;		// Administrationsgebaeude
+$i++; $geb_ag=$i;		// Administrationsgebaeude
 $i++; $geb_mauer=$i;		// Sperranlagen
 $i++; $geb_turm=$i;		// Wachturmanlagen
 
