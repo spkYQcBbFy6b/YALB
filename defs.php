@@ -44,7 +44,7 @@ $this->geb_namen=array(
 );
 
 // Namen der Gebaeudebilder, klein; inkl. Pfad ab Hauptverzeichnis:
-$geb_pics40=array(
+this->geb_pics40=array(
  $this->geb_hq		=> 'p/g3/40_1_hq.png',
  $this->geb_mine1	=> 'p/g3/40_1_stahlwerk.png',
  $this->geb_mine2	=> 'p/g3/40_1_kunststofffabrik.png',
